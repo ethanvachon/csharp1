@@ -1,0 +1,16 @@
+C:\Users\Ethan\Documents\codeworks\csharp1\bin\Debug\net5.0\csharp1.exe
+C:\Users\Ethan\Documents\codeworks\csharp1\bin\Debug\net5.0\csharp1.deps.json
+C:\Users\Ethan\Documents\codeworks\csharp1\bin\Debug\net5.0\csharp1.runtimeconfig.json
+C:\Users\Ethan\Documents\codeworks\csharp1\bin\Debug\net5.0\csharp1.runtimeconfig.dev.json
+C:\Users\Ethan\Documents\codeworks\csharp1\bin\Debug\net5.0\csharp1.dll
+C:\Users\Ethan\Documents\codeworks\csharp1\bin\Debug\net5.0\ref\csharp1.dll
+C:\Users\Ethan\Documents\codeworks\csharp1\bin\Debug\net5.0\csharp1.pdb
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\csharp1.csprojAssemblyReference.cache
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\csharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\csharp1.AssemblyInfoInputs.cache
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\csharp1.AssemblyInfo.cs
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\csharp1.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\csharp1.dll
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\ref\csharp1.dll
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\csharp1.pdb
+C:\Users\Ethan\Documents\codeworks\csharp1\obj\Debug\net5.0\csharp1.genruntimeconfig.cache
